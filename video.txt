@@ -3,9 +3,9 @@
 ! Personal filter to disable Youtube and Twitch
 !
 !
-|| youtube.com ^
-|| ytimg.com ^
-|| googlevideo.com ^
-|| youtube-ui.l.google.com ^
-|| twitch.tv ^
+||youtube.com^
+||ytimg.com^
+||googlevideo.com^
+||youtube-ui.l.google.com^
+||twitch.tv^
 

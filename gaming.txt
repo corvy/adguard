@@ -3,12 +3,12 @@
 ! Personal filter to disable Steam and Origin
 !
 !
-|| steampowered.com ^
-|| steampowered.com ^
-|| steamcommunity.com ^
-|| steamgames.com ^
-|| steamusercontent.com ^
-|| steamcontent.com ^
-|| steamstatic.com ^
-|| akamaihd.net ^
-|| ea.com ^
+||steampowered.com^
+||steampowered.com^
+||steamcommunity.com^
+||steamgames.com^
+||steamusercontent.com^
+||steamcontent.com^
+||steamstatic.com^
+||akamaihd.net^
+||ea.com^
