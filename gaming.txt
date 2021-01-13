@@ -1,0 +1,14 @@
+! Guide: https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
+!
+! Personal filter to disable Steam and Origin
+!
+!
+|| steampowered.com ^
+|| steampowered.com ^
+|| steamcommunity.com ^
+|| steamgames.com ^
+|| steamusercontent.com ^
+|| steamcontent.com ^
+|| steamstatic.com ^
+|| akamaihd.net ^
+|| ea.com ^
