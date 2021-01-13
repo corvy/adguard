@@ -6,5 +6,6 @@
 || youtube.com ^
 || ytimg.com ^
 || googlevideo.com ^
+|| youtube-ui.l.google.com ^
 || twitch.tv ^
 
